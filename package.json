@@ -1,0 +1,32 @@
+{
+  "name": "fp-bench",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/folktale"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertosaito/fp-bench.git"
+  },
+  "keywords": [
+    "FP",
+    "JavaScript",
+    "Folktale",
+    "Fantasy-Land",
+    "Ramda",
+    "Ramda Adjunct",
+    "Monads"
+  ],
+  "author": "Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertosaito/fp-bench/issues"
+  },
+  "homepage": "https://github.com/albertosaito/fp-bench#readme",
+  "dependencies": {
+    "folktale": "^2.3.1",
+    "ramda": "^0.25.0",
+    "ramda-adjunct": "^2.10.0"
+  }
+}
